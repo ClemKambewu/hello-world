@@ -4,5 +4,8 @@
 # How to Run the hello world .exe
 
 ```
-gcc - werror - extra hello.exe
+$ git pull devc
+$ git commit -am "Hacktoberfest"
+$ git push
+
 ```
