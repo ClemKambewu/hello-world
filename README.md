@@ -1,6 +1,6 @@
 # Issue
 This documentation explains how to fork a repository, creating a new brach, how to start the app and creating a new build
-This is to enable ne users to be able to fork a repository
+This is to enable new users to be able to fork a repository
 ## How to create a new branch
 Make sure you are in the directory of the repository
 ```
